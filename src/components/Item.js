@@ -9,7 +9,6 @@ export default function Item(props) {
 
   return (
     <div class="item">
-     
       <div class="item-image">
         <a href={url}>
         <img src={"https://img1.etsystatic.com/156/0/12814579/il_570xN.1173240751_50hv.jpg"}></img>
